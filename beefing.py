@@ -29,11 +29,10 @@ nimi = raw_input()
 print (" ")
 
 if sukupuoli == "female":
-    print ("She is dating" (random_nimi())
+    print random_nimi()
 
 if sukupuoli == "male":
-    print ("He is dating" (random_names())
-
+    print random_names()
 
 print (" ")
 print ("This is a joke!!")
